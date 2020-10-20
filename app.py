@@ -33,4 +33,4 @@ while '1' == '1':
   except:
     traceback.print_exc()
   finally:
-    time.sleep(Configuration.SECONDS) #60 seconds
+    time.sleep(Configuration.SECONDS) #60 seconds.
